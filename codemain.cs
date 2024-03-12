@@ -13,7 +13,7 @@
         compatible = new int[wave.Length][][];
         for (int i = 0; i < wave.Length; i++)
         {
-            wave[i] = new bool[T];
+            wave[i] = new bool[T];//hello
             compatible[i] = new int[T][];
             for (int t = 0; t < T; t++) compatible[i][t] = new int[4];
         }
