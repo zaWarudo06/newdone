@@ -23,3 +23,4 @@
         weightLogWeights = new double[T];
         sumOfWeights = 0;
         sumOfWeightLogWeights = 0;
+//good
